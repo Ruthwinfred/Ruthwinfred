@@ -1,0 +1,4 @@
+This developer named Winners!
+
+![ch - Copy](https://user-images.githubusercontent.com/53862733/159640500-b549c9a9-1d2a-45e6-8b1c-038e76da1ef5.jpeg) Winners is a full stack developer called Winfred Ruth Ngesa,in real life. My career in web development started in 2017,at the Sigalagala National Polytechnic,where I did a little bit of front-end design; html and CSS. Then in 2019, I attended a one month coding bootcamp at Moringa School Nairobi where I learnt some front end lnguages. Just after the bootcamp,I enrolled at the Institute of Software Technologies Nairobi Kenya, for a one year diploma course in Full stack development. In 2022, I won a two months web development scholarship at Emobilis academy Nairobi Kenya. All these stages have made me realize that a web developer is a full time learner. Every step I move to, I encounter new concepts that challenge me and make me feel like what I had learnt previously is not enough.
+
